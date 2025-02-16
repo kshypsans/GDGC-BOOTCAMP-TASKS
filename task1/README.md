@@ -3,10 +3,7 @@
 
 ## 📌 Kaggle Notebook Submission  
 
-Attach with README.me  
-✅ [📂 Click Here to View My Kaggle Notebook](https://github.com/kshypsans/gdgc-bootcamp-tasks/blob/main/task1/exercise-explore-your-data.ipynb)  
-✅ [📂 Click Here to View My Kaggle Notebook](https://github.com/kshypsans/gdgc-bootcamp-tasks/blob/main/task1/exercise-your-first-machine-learning-model.ipynb)  
-
+Attach with task1 folder
 
 ---
 
